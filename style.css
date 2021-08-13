@@ -1,0 +1,173 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	
+	padding: 0px;
+	margin: 0px;}
+.nav img{
+	height: 80px;
+	float:left;
+	padding-left: 30px;
+}
+.nav{
+	background-color: #fffdfb;
+	height: 80px;
+}
+.footer{
+	text-align: center;
+	
+}
+.nav ul li{
+	display: inline;
+	padding: 0 30px;
+	font-size: 18px;
+}
+.nav ul{
+	padding-top: 25px;
+	float: right;
+	padding-right: 130px;
+}
+.ndung1{
+	background-image: url("backgr.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+	height:600px;
+	text-align: center;
+	font-size: 20px;
+	
+}
+.ndung1 h3{
+	color: white;
+	padding-top: 70px;
+}
+.ndung1 h1{
+	color: white;
+}
+.nut h4{
+	padding-top: 10px;
+	color: white;
+}
+.nut{
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 13%;
+	height: 45px;
+	background-color: blueviolet;
+	border-radius: 20px;
+}
+.ndung2{
+	width: 100%;
+	height:600px;
+	background-color:#fffdfb; 
+	padding-top: 70px;
+}
+.khung{
+	background-color:#d9f4fd ;
+	border-radius: 15px;
+	height: 500px;
+	padding-top: 85px;
+	margin: 0 230px 20px 230px;
+	position: relative;
+}
+.hinhphai img{
+	width: 600px;
+	height: 315px;
+    right:-50px;
+	padding-top: 50px;
+	position: absolute;
+}
+.chutrai p{
+	padding-left: 10px;
+	font-size: 14pt;
+}
+.chutrai{
+	padding-left:50px;
+	float:left;
+	width: 40%;
+}
+.ndung3{
+	height: 600px;
+	background-color:#fffdfb;
+	padding:50px 0  0 150px ;
+	
+}
+.ndung3 h1{
+	padding-left: 120px;
+}
+
+.k1{
+	width: 22%;
+	height: 500px;
+	background-color:#3b6b61;
+	border-radius: 15px;
+	float: left;
+	margin-left: 80px;
+	color: #fffdfb;
+	
+}
+.k1 img{
+	border-radius: 15px 15px 0 0;
+	width: 100%;
+	height: 200px;
+}
+.k1 p{
+	padding:20px;
+}
+.k1 h2{
+	text-align: center;
+}
+.ndung4{
+	height: 600px;
+	background-color:#feecd4;
+	position: relative;
+}
+.ndung4 h1{
+	text-align: center;
+	padding-top: 60px;
+}
+.h1{
+	width:25%;
+	margin-left: 50px;
+	margin-bottom: 25px;
+}
+.h2{
+	width: 40%;
+	padding: 50px 20px 0 20px;
+}
+.h3{
+	
+	width: 25%;
+	margin-bottom: 25px;
+}
+.ndung5{
+	background-color: #fffdfb;
+	height: 400px;
+	padding-top: 50px;
+}
+.ndung5 h1{
+	padding-left: 250px;
+}
+.benchai{
+	width: 40%;
+	padding-top: 50px;
+	font-size: 20px;
+	float: left;
+	padding-left: 150px;
+}
+.map img{
+	padding-top: 30px;
+	width: 30%;
+	padding-left: 50px;
+}	
+.sub{
+	width: 240px;
+	height: 30px;
+	border-radius: 5px;
+}
+.btn{
+	background-color: mediumpurple;
+	padding: 5px;
+	border-radius: 5px;
+}
